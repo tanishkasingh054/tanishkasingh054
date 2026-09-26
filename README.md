@@ -12,7 +12,7 @@
 
 ## About Me
 
-Tanishka here, a Computer Science student specializing in
+Tanishka here, a CSE student specializing in
 Data Science, with an interest in data analytics.
 
 - 99% curiosity, 1% experience.

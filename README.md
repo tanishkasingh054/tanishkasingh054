@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9B82B8&height=3" width="100%"/>
 
-# ☾ Tanishka
+# Tanishka
 
 ### CSE (Data Science) Student | Aspiring Data Analyst
 
@@ -71,16 +71,16 @@ to build my first programming projects.
 
 ## ✧ A Little About Me
 
-- 🌙 I enjoy learning new things.
-- 💜 I'm interested in technology and data.
-- 📖 I believe in learning at my own pace.
-- 🪻 Always curious about what I can create next.
+-  I enjoy learning new things.
+-  I'm interested in technology and data.
+-  I believe in learning at my own pace.
+-  Always curious about what I can create next.
 
 ---
 
 <div align="center">
 
-### ☾ Thanks for visiting my profile! 
+###  Thanks for visiting my profile! 
 
 *One step at a time, one line of code at a time.*
 

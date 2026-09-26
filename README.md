@@ -15,7 +15,6 @@
 Tanishka here, a Computer Science student specializing in
 Data Science, with an interest in data analytics.
 
-- Aspiring Data Analyst...
 - 99% curiosity, 1% experience.
 - Code works. Don't ask how.
 - Interested in data and technology!

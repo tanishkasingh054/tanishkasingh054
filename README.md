@@ -12,13 +12,14 @@
 
 ## About Me
 
-I'm Tanishka, a Computer Science student specializing in
+Tanishka here, a Computer Science student specializing in
 Data Science, with an interest in data analytics.
 
-- CSE student, specializing in Data Science
-- Aspiring Data Analyst
-- Interested in data and technology
-- Still figuring things out
+- Aspiring Data Analyst...
+- 99% curiosity, 1% experience.
+- Code works. Don't ask how.
+- Interested in data and technology!
+- Finding patterns in a world of data.
 
 ---
 
@@ -65,6 +66,8 @@ Projects coming soon.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9B82B8&height=2" width="100%"/>
 
-<p><i>Code for Fun.</i></p>
+---
+
+<p><i>I Code for Fun.</i></p>
 
 </div>
